@@ -2,43 +2,37 @@
   {
     "brand": "Great Wall",
     "model": "GWM POER",
-    "price": 3899000,
-    "benefit": 0
+    "price": 3799000,
+    "benefit": 100000
   },
   {
     "brand": "Haval",
     "model": "DARGO",
-    "price": 3289000,
-    "benefit": 210000
-  },
-  {
-    "brand": "Haval",
-    "model": "DARGO X",
     "price": 3199000,
     "benefit": 300000
   },
   {
     "brand": "Haval",
     "model": "F7",
-    "price": 2779000,
-    "benefit": 220000
+    "price": 2749000,
+    "benefit": 250000
   },
   {
     "brand": "Haval",
     "model": "F7x",
-    "price": 3389000,
-    "benefit": 210000
+    "price": 3299000,
+    "benefit": 300000
   },
   {
     "brand": "Haval",
     "model": "JOLION",
-    "price": 1999000,
-    "benefit": 260000
+    "price": 1949000,
+    "benefit": 150000
   },
   {
     "brand": "Haval",
     "model": "M6",
-    "price": 1999000,
-    "benefit": 270000
+    "price": 1949000,
+    "benefit": 150000
   }
 ]
