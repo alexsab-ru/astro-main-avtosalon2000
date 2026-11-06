@@ -1,0 +1,2323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars>
+    <car>
+      <unique_id>EC2EF4A50TA027091</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A50TA027091</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A50TA027091/0/full.webp?v=62e3fc1bab87</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A51TA022840</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A51TA022840</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA022840/0/full.webp?v=6aa1811947d8</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A51TA030646</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A51TA030646</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA030646/0/full.webp?v=5b889ed44acb</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A52TA018649</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A52TA018649</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA018649/0/full.webp?v=6d8292197269</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A52TA022362</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A52TA022362</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA022362/0/full.webp?v=8bc9d45fc6a7</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A52TA029571</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A52TA029571</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA029571/0/full.webp?v=f4788120994d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A52TA030896</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A52TA030896</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA030896/0/full.webp?v=29360200f40a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A53TA018692</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A53TA018692</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/0/full.webp?v=b46e6a3c4baf</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A54TA016823</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A54TA016823</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA016823/0/full.webp?v=6742e78f6d02</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A54TA024064</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A54TA024064</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA024064/0/full.webp?v=618dfe3fe9c3</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A54TA025702</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A54TA025702</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA025702/0/full.webp?v=e1e3ef9e9f50</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A54TA028356</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A54TA028356</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/0/full.webp?v=097644848ac4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A55TA021710</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A55TA021710</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA021710/0/full.webp?v=60a8db3bfc3b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A57TA024432</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-mt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A57TA024432</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 MT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A57TA024432/0/full.webp?v=d241349c7a64</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A57TA026035</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A57TA026035</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A57TA026035/0/full.webp?v=e2493c73e739</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A58TA018669</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A58TA018669</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA018669/0/full.webp?v=ec2a852c40d7</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A58TA028036</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A58TA028036</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028036/0/full.webp?v=f85348faf0a4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A58TA028358</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A58TA028358</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028358/0/full.webp?v=72f5700f9d33</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A58TA031244</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A58TA031244</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA031244/0/full.webp?v=03b0969b4c68</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A59TA022472</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A59TA022472</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA022472/0/full.webp?v=58793fb0328b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A59TA028353</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A59TA028353</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA028353/0/full.webp?v=be1ad916bd6b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A5XTA016793</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A5XTA016793</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA016793/0/full.webp?v=a912b9abc033</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A5XTA023047</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A5XTA023047</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA023047/0/full.webp?v=e3245d715e5d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A5XTA030564</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A5XTA030564</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA030564/0/full.webp?v=19f3cb694a1f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A5XTA031181</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A5XTA031181</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA031181/0/full.webp?v=2b282cd88fd4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LGWDC7193TJ661378</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/great-wall-poer-i-facelift-20-at-218-hp-4wd-premium-gray-2026/</url>
+      <mark_id>Great Wall</mark_id>
+      <folder_id>Poer, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>LGWDC7193TJ661378</vin>
+      <price>3899000</price>
+      <sale_price>3749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>150000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Great Wall Poer, I Рестайлинг, Премиум, 2.0 AT (218 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/LGWDC7193TJ661378/0/full.webp?v=81e8192fcb11</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A0TA556240</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-heavenly-topaz-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A0TA556240</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>голубой</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., голубой</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA556240/0/full.webp?v=896158cfa982</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A0TA594714</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A0TA594714</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA594714/0/full.webp?v=c4358d538cd7</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A2TA594732</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A2TA594732</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA594732/0/full.webp?v=647c9637eb22</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A2TA597016</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A2TA597016</vin>
+      <price>2099000</price>
+      <sale_price>1849000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Комфорт, 1.5 MT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA597016/0/full.webp?v=966dc0a60dfc</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A2TA597212</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A2TA597212</vin>
+      <price>2099000</price>
+      <sale_price>1849000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Комфорт, 1.5 MT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA597212/0/full.webp?v=25528a330e3f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A3TA586865</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-premium-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A3TA586865</vin>
+      <price>2699000</price>
+      <sale_price>2449000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA586865/0/full.webp?v=a6047fc36778</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A3TA592102</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-premium-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A3TA592102</vin>
+      <price>2699000</price>
+      <sale_price>2449000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA592102/0/full.webp?v=e898147a605f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A3TA596912</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A3TA596912</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA596912/0/full.webp?v=790569d57d9f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A3TA597431</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A3TA597431</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA597431/0/full.webp?v=242d48bbcba8</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A4TA543586</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A4TA543586</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA543586/0/full.webp?v=5db1761d2e41</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A4TA597440</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A4TA597440</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA597440/0/full.webp?v=ec239698220f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A5TA556234</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-heavenly-topaz-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A5TA556234</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>голубой</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., голубой</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA556234/0/full.webp?v=fdebf006b5e0</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A5TA590867</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-premium-heavenly-topaz-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A5TA590867</vin>
+      <price>2699000</price>
+      <sale_price>2449000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>голубой</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (143 л.с.), 2026 г., голубой</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA590867/0/full.webp?v=873f6d46fc64</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A5TA594059</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-premium-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A5TA594059</vin>
+      <price>2699000</price>
+      <sale_price>2449000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA594059/0/full.webp?v=91d28d871358</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A6TA596306</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A6TA596306</vin>
+      <price>2099000</price>
+      <sale_price>1849000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Комфорт, 1.5 MT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A6TA596306/0/full.webp?v=b7718f872fc3</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A7TA591647</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-premium-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A7TA591647</vin>
+      <price>2699000</price>
+      <sale_price>2449000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA591647/0/full.webp?v=df0c911a0ca4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A7TA595200</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A7TA595200</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA595200/0/full.webp?v=1baef073850d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04A9TA595201</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04A9TA595201</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A9TA595201/0/full.webp?v=8e8e0fbd4b67</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEE04AXTA597443</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGEE04AXTA597443</vin>
+      <price>2499000</price>
+      <sale_price>2249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04AXTA597443/0/full.webp?v=187e240333db</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A0TA312388</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A0TA312388</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA312388/0/full.webp?v=4e06db85e91b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A1TA314327</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A1TA314327</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314327/0/full.webp?v=92758bcabb2f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A1TA314439</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A1TA314439</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314439/0/full.webp?v=4ed831e90c02</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A2TA312361</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A2TA312361</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A2TA312361/0/full.webp?v=3d3d2caa036d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A3TA314409</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A3TA314409</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA314409/0/full.webp?v=fdcd317781f1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A3TA314474</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A3TA314474</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA314474/0/full.webp?v=c0bdf97e9052</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A3TA315415</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A3TA315415</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA315415/0/full.webp?v=dacf4fd83760</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A3TA318136</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A3TA318136</vin>
+      <price>3199000</price>
+      <sale_price>2949000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA318136/0/full.webp?v=bf8b5ca34532</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A4TA316878</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A4TA316878</vin>
+      <price>3199000</price>
+      <sale_price>2949000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A4TA316878/0/full.webp?v=85d3740a0611</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A5TA314315</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A5TA314315</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A5TA314315/0/full.webp?v=7c0ee2cc8d39</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A6TA317062</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A6TA317062</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA317062/0/full.webp?v=01fe7a03de50</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A6TA318230</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A6TA318230</vin>
+      <price>3199000</price>
+      <sale_price>2949000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318230/0/full.webp?v=0b8c06d195b4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A6TA318339</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A6TA318339</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318339/0/full.webp?v=b6c742a1a18b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A6TA319183</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A6TA319183</vin>
+      <price>3199000</price>
+      <sale_price>2949000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA319183/0/full.webp?v=a15306ef8053</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A8TA318259</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A8TA318259</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A8TA318259/0/full.webp?v=426fd269fb66</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04A9TA315435</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04A9TA315435</vin>
+      <price>2999000</price>
+      <sale_price>2749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A9TA315435/0/full.webp?v=a46770b4f9a8</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGEF04AXTA318201</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGEF04AXTA318201</vin>
+      <price>3199000</price>
+      <sale_price>2949000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04AXTA318201/0/full.webp?v=cfaa1883a43d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A0SA532474</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A0SA532474</vin>
+      <price>2599000</price>
+      <sale_price>2349000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0SA532474/0/full.webp?v=c86b71fd4588</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A0TA589131</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A0TA589131</vin>
+      <price>2849000</price>
+      <sale_price>2599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0TA589131/0/full.webp?v=b5dc989a2d06</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A1TA555215</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A1TA555215</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA555215/0/full.webp?v=8a3215f24512</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A1TA572547</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A1TA572547</vin>
+      <price>2949000</price>
+      <sale_price>2699000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA572547/0/full.webp?v=2b50f8e70c4e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A1TA577179</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-heavenly-topaz-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A1TA577179</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>голубой</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., голубой</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA577179/0/full.webp?v=eb7e352e89a9</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A1TA597576</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A1TA597576</vin>
+      <price>2849000</price>
+      <sale_price>2599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597576/0/full.webp?v=c7a99522f386</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A1TA597612</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A1TA597612</vin>
+      <price>2849000</price>
+      <sale_price>2599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597612/0/full.webp?v=d91a9f95ced2</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A2TA556311</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A2TA556311</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A2TA556311/0/full.webp?v=4ce10aea32ec</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A3TA596736</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A3TA596736</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA596736/0/full.webp?v=1c6309135a56</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A3TA597658</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-magmatic-red-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A3TA597658</vin>
+      <price>2849000</price>
+      <sale_price>2599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>красный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., красный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA597658/0/full.webp?v=8db40b2c9571</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A4TA555225</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A4TA555225</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA555225/0/full.webp?v=62ce6c9a43bf</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A4TA579735</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A4TA579735</vin>
+      <price>2949000</price>
+      <sale_price>2699000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA579735/0/full.webp?v=86a745bb9071</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A4TA587673</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A4TA587673</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA587673/0/full.webp?v=3fa52f48bda1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A5TA579761</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A5TA579761</vin>
+      <price>2949000</price>
+      <sale_price>2699000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA579761/0/full.webp?v=1ec4e6136bfd</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A5TA587911</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A5TA587911</vin>
+      <price>2949000</price>
+      <sale_price>2699000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA587911/0/full.webp?v=0e6958b6228c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A5TA597211</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A5TA597211</vin>
+      <price>2849000</price>
+      <sale_price>2599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA597211/0/full.webp?v=669130d38c48</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A7TA583021</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A7TA583021</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA583021/0/full.webp?v=82a2eaeff969</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A7TA591524</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A7TA591524</vin>
+      <price>2949000</price>
+      <sale_price>2699000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA591524/0/full.webp?v=fa19f698cfd1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A7TA597209</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A7TA597209</vin>
+      <price>2849000</price>
+      <sale_price>2599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA597209/0/full.webp?v=42ea95725a65</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A8TA548844</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A8TA548844</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA548844/0/full.webp?v=62426f9708ae</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A8TA589779</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A8TA589779</vin>
+      <price>2949000</price>
+      <sale_price>2699000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA589779/0/full.webp?v=e42826a3b2ad</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A8TA594951</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-heavenly-topaz-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A8TA594951</vin>
+      <price>2849000</price>
+      <sale_price>2599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>голубой</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., голубой</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA594951/0/full.webp?v=f48b2b17cb5e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A8TA596795</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A8TA596795</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA596795/0/full.webp?v=c7c277644d15</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A9SA527208</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-15-amt-150-hp-4wd-premium-galactic-black-2025/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <year>2025</year>
+      <vin>XZGFE04A9SA527208</vin>
+      <price>2749000</price>
+      <sale_price>2499000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг, Премиум, 1.5 AMT (150 л.с.) 4WD, 2025 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9SA527208/0/full.webp?v=d03cec4463b4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A9TA583554</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A9TA583554</vin>
+      <price>2649000</price>
+      <sale_price>2399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA583554/0/full.webp?v=12fe9b8929a6</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04A9TA591122</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04A9TA591122</vin>
+      <price>2849000</price>
+      <sale_price>2599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA591122/0/full.webp?v=b946b30cbf54</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04AXTA573051</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04AXTA573051</vin>
+      <price>2949000</price>
+      <sale_price>2699000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA573051/0/full.webp?v=f8d3a65c616c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFE04AXTA591548</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг 2</folder_id>
+      <year>2026</year>
+      <vin>XZGFE04AXTA591548</vin>
+      <price>2949000</price>
+      <sale_price>2699000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA591548/0/full.webp?v=3e69f56ef90d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A0TA309931</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-optimum-20t-at-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A0TA309931</vin>
+      <price>3399000</price>
+      <sale_price>3149000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (224 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA309931/0/full.webp?v=98294ec82db0</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A0TA311212</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-optimum-20t-at-2026-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A0TA311212</vin>
+      <price>3399000</price>
+      <sale_price>3149000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (224 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA311212/0/full.webp?v=dbae300fe7bc</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A1TA309808</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-192-hp-4wd-premium-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A1TA309808</vin>
+      <price>3499000</price>
+      <sale_price>3249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Премиум, 2.0 AMT (192 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA309808/0/full.webp?v=f07fcccf5756</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A1TA937013</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-premium-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A1TA937013</vin>
+      <price>3699000</price>
+      <sale_price>3399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Премиум, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA937013/0/full.webp?v=aa21045cae9f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A2TA308876</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-optimum-20t-at-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A2TA308876</vin>
+      <price>3399000</price>
+      <sale_price>3149000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (224 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA308876/0/full.webp?v=4a19df312c9b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A2TA309705</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-techno--plus-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A2TA309705</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (224 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA309705/0/full.webp?v=bfb095bcb940</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A2TA320297</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-techno--plus-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A2TA320297</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (224 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA320297/0/full.webp?v=0fe31e37f632</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A2TA604822</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7x-ii-20-amt-192-hp-4wd-techno--plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7x, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A2TA604822</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7x, II, Техно +, 2.0 AMT (192 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA604822/0/full.webp?v=e15d6285ccf1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A2TA605047</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7x-ii-20-amt-192-hp-4wd-techno--plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7x, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A2TA605047</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7x, II, Техно +, 2.0 AMT (192 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA605047/0/full.webp?v=436eec555fdd</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A2TA940230</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-terracotta-sapphire-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A2TA940230</vin>
+      <price>3899000</price>
+      <sale_price>3599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>оранжевый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., оранжевый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/0/full.webp?v=1c99937010a6</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A3TA309907</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-optimum-20t-at-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A3TA309907</vin>
+      <price>3399000</price>
+      <sale_price>3149000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (224 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA309907/0/full.webp?v=84997380f0db</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A3TA313553</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-premium-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A3TA313553</vin>
+      <price>3599000</price>
+      <sale_price>3349000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Премиум (2026), 2.0 AMT (224 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313553/0/full.webp?v=752f3ff796c3</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A3TA313990</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-premium-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A3TA313990</vin>
+      <price>3599000</price>
+      <sale_price>3349000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Премиум (2026), 2.0 AMT (224 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313990/0/full.webp?v=e1c2deb8c87a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A3TA320292</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-techno--plus-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A3TA320292</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (224 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA320292/0/full.webp?v=a03b3e994f36</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A4TA308829</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-optimum-20t-at-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A4TA308829</vin>
+      <price>3399000</price>
+      <sale_price>3149000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (224 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A4TA308829/0/full.webp?v=0c07d521833c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A4TA942576</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A4TA942576</vin>
+      <price>3899000</price>
+      <sale_price>3599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A4TA942576/0/full.webp?v=74856cbc06b5</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A5TA309018</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-optimum-20t-at-2026-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A5TA309018</vin>
+      <price>3399000</price>
+      <sale_price>3149000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (224 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309018/0/full.webp?v=63b01ea89ca7</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A5TA309889</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-optimum-20t-at-2026-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A5TA309889</vin>
+      <price>3399000</price>
+      <sale_price>3149000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (224 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309889/0/full.webp?v=84b3ae60c2b9</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A5TA605768</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7x-ii-20-amt-192-hp-4wd-techno--plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7x, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A5TA605768</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7x, II, Техно +, 2.0 AMT (192 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA605768/0/full.webp?v=f02d85fe00c4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A6TA309691</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-techno--plus-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A6TA309691</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (224 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA309691/0/full.webp?v=5f5a5f05b784</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A6TA605195</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7x-ii-20-amt-192-hp-4wd-premium-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7x, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A6TA605195</vin>
+      <price>3599000</price>
+      <sale_price>3349000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7x, II, Премиум, 2.0 AMT (192 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/0/full.webp?v=4f6043440f07</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A8TA309630</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-techno--plus-2026-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A8TA309630</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (224 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA309630/0/full.webp?v=e390a68846f4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A8TA938353</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-premium-terracotta-sapphire-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A8TA938353</vin>
+      <price>3699000</price>
+      <sale_price>3399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>оранжевый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Премиум, 2.0 AMT (200 л.с.) 4WD, 2026 г., оранжевый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA938353/0/full.webp?v=19455a142425</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A9TA310060</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-optimum-20t-at-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A9TA310060</vin>
+      <price>3399000</price>
+      <sale_price>3149000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (224 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/0/full.webp?v=4af8c59c6028</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06AXTA309466</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-techno--plus-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06AXTA309466</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (224 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309466/0/full.webp?v=0bf2e9fc1c33</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06AXTA309659</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-techno--plus-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06AXTA309659</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (224 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309659/0/full.webp?v=ffba02dd1cec</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06AXTA309693</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-techno--plus-2026-oceanic-lapis-lazuli-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06AXTA309693</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (224 л.с.), 2026 г., синий</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309693/0/full.webp?v=b577d2734e16</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06AXTA310407</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-techno--plus-2026-smoky-pearls-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06AXTA310407</vin>
+      <price>3799000</price>
+      <sale_price>3549000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (224 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA310407/0/full.webp?v=6e16d68f77f0</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06AXTA314215</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-224-hp-premium-2026-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06AXTA314215</vin>
+      <price>3599000</price>
+      <sale_price>3349000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7, II, Премиум (2026), 2.0 AMT (224 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/0/full.webp?v=9ee00a9a239f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06AXTA937284</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06AXTA937284</vin>
+      <price>3499000</price>
+      <sale_price>3199000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Оптимум, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA937284/0/full.webp?v=dfdd0154048e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF07A2TA609145</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7x-ii-20-amt-231-hp-4wd-techno--plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7x, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF07A2TA609145</vin>
+      <price>3999000</price>
+      <sale_price>3749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7x, II, Техно +, 2.0 AMT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A2TA609145/0/full.webp?v=16bc57a01590</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF07A6TA609178</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-f7x-ii-20-amt-231-hp-4wd-techno--plus-noble-agate-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7x, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF07A6TA609178</vin>
+      <price>3999000</price>
+      <sale_price>3749000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval F7x, II, Техно +, 2.0 AMT (231 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A6TA609178/0/full.webp?v=7dc9c5d82b43</image>
+      </images>
+    </car>
+  </cars>
+</data>
