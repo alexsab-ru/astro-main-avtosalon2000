@@ -25,6 +25,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A50TA027091/5/full.webp?v=2f2f265d58e3</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A50TA027091/6/full.webp?v=53ba9a8b71dd</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A50TA027091/7/full.webp?v=bbd6b0fbbb70</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A50TA027091/8/full.webp?v=95eb00ee27bc</image>
       </images>
     </car>
     <car>
@@ -45,7 +46,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA022840/0/full.webp?v=5bea3191e125</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA022840/1/full.webp?v=4dc5a23d1195</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA022840/2/full.webp?v=c441b8587306</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA022840/2/full.webp?v=2ed588825c8c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA022840/3/full.webp?v=bbb010b565eb</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA022840/4/full.webp?v=bd4e37761b29</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA022840/5/full.webp?v=3a10c11e83df</image>
@@ -73,6 +74,83 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA030646/3/full.webp?v=f82cb6a69927</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA030646/4/full.webp?v=4cea0a6fa361</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA030646/5/full.webp?v=6fb7be37797f</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA030646/6/full.webp?v=e5ea7f6f4abd</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A51TA031845</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A51TA031845</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA031845/0/full.webp?v=98519c31a400</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A51TA032543</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-mt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A51TA032543</vin>
+      <price>2099000</price>
+      <sale_price>1849000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 MT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA032543/0/full.webp?v=f47a2ab9e717</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A51TA033627</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-mt-143-hp-optimum-20t-at-2026-gray-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A51TA033627</vin>
+      <price>2099000</price>
+      <sale_price>1849000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 MT (143 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA033627/0/full.webp?v=d3cecb303c5e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A51TA033787</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-mt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A51TA033787</vin>
+      <price>2099000</price>
+      <sale_price>1849000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 MT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA033787/0/full.webp?v=d341d8188bb3</image>
       </images>
     </car>
     <car>
@@ -99,6 +177,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA018649/5/full.webp?v=e3ecafc43e12</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA018649/6/full.webp?v=8599eb3835a5</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA018649/7/full.webp?v=e4c9e7701fb4</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA018649/8/full.webp?v=dae2c87e2b75</image>
       </images>
     </car>
     <car>
@@ -117,7 +196,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA022362/0/full.webp?v=951623ec251f</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA022362/0/full.webp?v=8bc9d45fc6a7</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA022362/1/full.webp?v=f65b5435ed7a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA022362/2/full.webp?v=2fc3ac7400fd</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA022362/3/full.webp?v=d56c9a5df095</image>
@@ -153,6 +232,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA029571/4/full.webp?v=150ff5ceebad</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA029571/5/full.webp?v=8b1db4e2ac51</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA029571/6/full.webp?v=758089e3e3aa</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA029571/7/full.webp?v=d49cc5b5fd3c</image>
       </images>
     </car>
     <car>
@@ -184,6 +264,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA030896/10/full.webp?v=bff012b18743</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA030896/11/full.webp?v=c6f197a609b5</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA030896/12/full.webp?v=5bef7b87ab78</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA030896/13/full.webp?v=1438fb2d1f41</image>
       </images>
     </car>
     <car>
@@ -203,12 +284,31 @@
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/0/full.webp?v=81c9e6bdc8cb</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/1/full.webp?v=50ae989889c6</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/1/full.webp?v=d582528aaad8</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/2/full.webp?v=4e6979e1f211</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/3/full.webp?v=b08abbb9664a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/4/full.webp?v=5b29791bd055</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/5/full.webp?v=4b141e4609a4</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/6/full.webp?v=87cbab1f08df</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A53TA031555</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A53TA031555</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA031555/0/full.webp?v=7540364848a1</image>
       </images>
     </car>
     <car>
@@ -228,7 +328,7 @@
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA016823/0/full.webp?v=6742e78f6d02</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA016823/1/full.webp?v=39541051b6b3</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA016823/1/full.webp?v=3e25302b2169</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA016823/2/full.webp?v=71872221cddd</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA016823/3/full.webp?v=2fee8981f9c5</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA016823/4/full.webp?v=6047456870b4</image>
@@ -254,7 +354,7 @@
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA024064/0/full.webp?v=618dfe3fe9c3</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA024064/1/full.webp?v=177b874b385c</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA024064/1/full.webp?v=ead9d86418d2</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA024064/2/full.webp?v=96f1de1bf0ef</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA024064/3/full.webp?v=8ae67d3c5a0b</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA024064/4/full.webp?v=8f85c6837f7c</image>
@@ -285,6 +385,26 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA025702/6/full.webp?v=1685c00fc261</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA025702/7/full.webp?v=580c59fd6f75</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA025702/8/full.webp?v=25c3cb3d2036</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA025702/9/full.webp?v=e12af296a30e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A54TA028261</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A54TA028261</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028261/0/full.webp?v=d97900c349f6</image>
       </images>
     </car>
     <car>
@@ -303,7 +423,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/0/full.webp?v=097644848ac4</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/0/full.webp?v=2d7bc5dc6179</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/1/full.webp?v=fda133f3b381</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/2/full.webp?v=b4550dce6ac5</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/3/full.webp?v=add740b4442e</image>
@@ -317,6 +437,44 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/11/full.webp?v=f21c4fb16329</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/12/full.webp?v=59a5bd660588</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/13/full.webp?v=2c246347b0cb</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A54TA028664</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A54TA028664</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028664/0/full.webp?v=042a0ff68b9e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A54TA031869</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A54TA031869</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA031869/0/full.webp?v=57659d573eec</image>
       </images>
     </car>
     <car>
@@ -335,13 +493,32 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA021710/0/full.webp?v=60a8db3bfc3b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA021710/0/full.webp?v=125315a8dd2c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA021710/1/full.webp?v=71a9a1a8c56d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA021710/2/full.webp?v=b19f5c2e01fd</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA021710/3/full.webp?v=b472b159db55</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA021710/4/full.webp?v=5618170983e6</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA021710/5/full.webp?v=e2eb297d6afe</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA021710/6/full.webp?v=afadde78e5a9</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A56TA031789</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A56TA031789</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A56TA031789/0/full.webp?v=f87e7fc9a99c</image>
       </images>
     </car>
     <car>
@@ -368,6 +545,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA018669/5/full.webp?v=51a70ecfeee9</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA018669/6/full.webp?v=6c3a250892a3</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA018669/7/full.webp?v=f823422e315b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA018669/8/full.webp?v=1125a1fcd501</image>
       </images>
     </car>
     <car>
@@ -387,7 +565,7 @@
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028036/0/full.webp?v=f85348faf0a4</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028036/1/full.webp?v=f1a37c7cad39</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028036/1/full.webp?v=701d64a0f9cf</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028036/2/full.webp?v=def85555b572</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028036/3/full.webp?v=2e8b4692aaf4</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028036/4/full.webp?v=fbfb1cdee98c</image>
@@ -419,6 +597,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028358/6/full.webp?v=43d45fe3b151</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028358/7/full.webp?v=6cf39d772f59</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028358/8/full.webp?v=1ce655f07862</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA028358/9/full.webp?v=90967e03d55a</image>
       </images>
     </car>
     <car>
@@ -437,7 +616,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA031244/0/full.webp?v=03b0969b4c68</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA031244/0/full.webp?v=2078506afae6</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA031244/1/full.webp?v=41c584ac1414</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA031244/2/full.webp?v=018467f86424</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA031244/3/full.webp?v=4f371d1b07ff</image>
@@ -448,6 +627,25 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA031244/8/full.webp?v=a89793097ba5</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA031244/9/full.webp?v=c05037468fa5</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA031244/10/full.webp?v=69052737f216</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A58TA032085</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-mt-143-hp-optimum-20t-at-2026-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A58TA032085</vin>
+      <price>2099000</price>
+      <sale_price>1849000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 MT (143 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA032085/0/full.webp?v=031a0b2647a4</image>
       </images>
     </car>
     <car>
@@ -466,7 +664,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA028353/0/full.webp?v=be1ad916bd6b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA028353/0/full.webp?v=07bf3a3150f6</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA028353/1/full.webp?v=8d392364a772</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA028353/2/full.webp?v=fcc696c972b3</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA028353/3/full.webp?v=99b7e592f9e1</image>
@@ -475,6 +673,25 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA028353/6/full.webp?v=664880830623</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA028353/7/full.webp?v=2cf8e4d88f83</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA028353/8/full.webp?v=f19580a0fba5</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A59TA029406</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A59TA029406</vin>
+      <price>2349000</price>
+      <sale_price>2099000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA029406/0/full.webp?v=d7b74ef1a573</image>
       </images>
     </car>
     <car>
@@ -493,7 +710,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA016793/0/full.webp?v=66e7472701a9</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA016793/0/full.webp?v=a912b9abc033</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA016793/1/full.webp?v=3284424cd273</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA016793/2/full.webp?v=f5c88742a7c8</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA016793/3/full.webp?v=ca7c16bffc0b</image>
@@ -533,6 +750,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA023047/8/full.webp?v=5c870ed1bd81</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA023047/9/full.webp?v=334be8c614c3</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA023047/10/full.webp?v=3f6d99cc870a</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA023047/11/full.webp?v=c91367847b40</image>
       </images>
     </car>
     <car>
@@ -553,7 +771,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA030564/0/full.webp?v=1c9e2c2ca14d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA030564/1/full.webp?v=b993c8c3b30c</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA030564/2/full.webp?v=8c0179564178</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA030564/2/full.webp?v=c0d05f5246d8</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA030564/3/full.webp?v=196044dfede6</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA030564/4/full.webp?v=1f44f4113782</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA030564/5/full.webp?v=e0de763767fa</image>
@@ -579,7 +797,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA031181/0/full.webp?v=29bc56ef2fd3</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA031181/0/full.webp?v=2b282cd88fd4</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA031181/1/full.webp?v=6c759d1b87c0</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA031181/2/full.webp?v=c53dd156a580</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA031181/3/full.webp?v=41a31f7bbca3</image>
@@ -591,6 +809,25 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA031181/9/full.webp?v=b6dee2566b97</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA031181/10/full.webp?v=bbb2f864ded9</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA031181/11/full.webp?v=20169609566b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC2EF4A5XTA032539</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-mt-143-hp-optimum-20t-at-2026-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>M6, II</folder_id>
+      <year>2026</year>
+      <vin>EC2EF4A5XTA032539</vin>
+      <price>2099000</price>
+      <sale_price>1849000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>250000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 MT (143 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA032539/0/full.webp?v=2f7ae7771a21</image>
       </images>
     </car>
     <car>
@@ -610,7 +847,7 @@
       <description>Автомобиль Great Wall Poer, I Рестайлинг, Премиум, 2.0 AT (218 л.с.) 4WD, 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/LGWDC7193TJ661378/0/full.webp?v=59727701a7d2</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/LGWDC7193TJ661378/1/full.webp?v=922f403c01e8</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/LGWDC7193TJ661378/1/full.webp?v=c2b3393f54eb</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/LGWDC7193TJ661378/2/full.webp?v=4f7af4f49dd8</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/LGWDC7193TJ661378/3/full.webp?v=334321b51547</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/LGWDC7193TJ661378/4/full.webp?v=a3dcd14ea290</image>
@@ -639,6 +876,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA556240/3/full.webp?v=1fe4e0aa9844</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA556240/4/full.webp?v=bc402d797103</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA556240/5/full.webp?v=17d482fff115</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA556240/6/full.webp?v=1d50cc8b991d</image>
       </images>
     </car>
     <car>
@@ -658,7 +896,7 @@
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA594714/0/full.webp?v=f56523333c86</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA594714/1/full.webp?v=c34e02ad8022</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA594714/1/full.webp?v=c9cafa812788</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA594714/2/full.webp?v=31f541111415</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA594714/3/full.webp?v=c1c611091c60</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA594714/4/full.webp?v=3dc0c687020d</image>
@@ -685,7 +923,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA594732/0/full.webp?v=99a0c7ec406c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA594732/1/full.webp?v=1987d6ed362d</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA594732/2/full.webp?v=a2015ebc4d85</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA594732/2/full.webp?v=fc22ea8c5a66</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA594732/3/full.webp?v=02a2c6845c5a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA594732/4/full.webp?v=1cc0ad8436ba</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA594732/5/full.webp?v=5cd25159f144</image>
@@ -738,6 +976,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA596912/6/full.webp?v=5c6166f92fb2</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA596912/7/full.webp?v=c0292dcfae7f</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA596912/8/full.webp?v=98a535251dc2</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA596912/9/full.webp?v=ff9ec6bfcdf7</image>
       </images>
     </car>
     <car>
@@ -764,6 +1003,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA597431/5/full.webp?v=cc0be288d00d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA597431/6/full.webp?v=8f4d0a6ae136</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA597431/7/full.webp?v=b7e0fb67573c</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA597431/8/full.webp?v=cb44347ff3f4</image>
       </images>
     </car>
     <car>
@@ -782,7 +1022,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA543586/0/full.webp?v=4d067a29314e</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA543586/0/full.webp?v=5db1761d2e41</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA543586/1/full.webp?v=beb538c60dc6</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA543586/2/full.webp?v=bdf2aa780dc1</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA543586/3/full.webp?v=c213fa083aeb</image>
@@ -818,6 +1058,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA597440/4/full.webp?v=72b36ed6f826</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA597440/5/full.webp?v=202d32cbb33c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA597440/6/full.webp?v=905b31855de2</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA597440/7/full.webp?v=349b1a3ccd71</image>
       </images>
     </car>
     <car>
@@ -837,7 +1078,7 @@
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., голубой</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA556234/0/full.webp?v=95c58841dd83</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA556234/1/full.webp?v=1e3f90691638</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA556234/1/full.webp?v=9d20f546c493</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA556234/2/full.webp?v=fa79a1bafca7</image>
       </images>
     </car>
@@ -868,6 +1109,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA590867/8/full.webp?v=fedf3cdb2d72</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA590867/9/full.webp?v=97ecc6b7aed5</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA590867/10/full.webp?v=2ed435bd669d</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA590867/11/full.webp?v=9a68e900d023</image>
       </images>
     </car>
     <car>
@@ -891,6 +1133,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA594059/2/full.webp?v=151fa206a6a9</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA594059/3/full.webp?v=d830bd838472</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA594059/4/full.webp?v=83a32db4165b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A5TA594059/5/full.webp?v=90929dfa5e36</image>
       </images>
     </car>
     <car>
@@ -936,6 +1179,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA591647/5/full.webp?v=2beffbec4007</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA591647/6/full.webp?v=f3a285ee188e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA591647/7/full.webp?v=f8ea52b075e1</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA591647/8/full.webp?v=63e28fdda49a</image>
       </images>
     </car>
     <car>
@@ -962,6 +1206,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA595200/5/full.webp?v=364a0de4a09a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA595200/6/full.webp?v=1e0edd4727b4</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA595200/7/full.webp?v=44cfe0cc7aef</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA595200/8/full.webp?v=3aaa0c6c5304</image>
       </images>
     </car>
     <car>
@@ -981,7 +1226,7 @@
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A9TA595201/0/full.webp?v=8e8e0fbd4b67</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A9TA595201/1/full.webp?v=ad7f66957880</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A9TA595201/1/full.webp?v=285c610c269e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A9TA595201/2/full.webp?v=13367e5f5c3b</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A9TA595201/3/full.webp?v=db721fda508f</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A9TA595201/4/full.webp?v=85f9086fb138</image>
@@ -1017,6 +1262,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04AXTA597443/4/full.webp?v=dbea4c3f34ff</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04AXTA597443/5/full.webp?v=4b72baabc5e0</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04AXTA597443/6/full.webp?v=beaa7f369268</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04AXTA597443/7/full.webp?v=a7d63cf4e39a</image>
       </images>
     </car>
     <car>
@@ -1035,7 +1281,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA312388/0/full.webp?v=4e06db85e91b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA312388/0/full.webp?v=92c4f790b987</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA312388/1/full.webp?v=997c977de72a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA312388/2/full.webp?v=c6b72de86451</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA312388/3/full.webp?v=e8915a70d862</image>
@@ -1062,7 +1308,7 @@
       <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA320667/0/full.webp?v=9b55467f5086</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA320667/1/full.webp?v=d59642f956f8</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA320667/1/full.webp?v=fabd6e3ed445</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA320667/2/full.webp?v=caa37c7b5b9e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A0TA320667/3/full.webp?v=93b33e0e9ee8</image>
       </images>
@@ -1083,7 +1329,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314327/0/full.webp?v=92758bcabb2f</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314327/0/full.webp?v=a29a00da8553</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314327/1/full.webp?v=06b9efec25d3</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314327/2/full.webp?v=c929e87966f0</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314327/3/full.webp?v=887b6033d8d1</image>
@@ -1121,6 +1367,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314439/10/full.webp?v=5c6ec2361e3a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314439/11/full.webp?v=ea1986bbdd84</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314439/12/full.webp?v=bc6d440b4ef9</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A1TA314439/13/full.webp?v=c45bc91cc560</image>
       </images>
     </car>
     <car>
@@ -1148,6 +1395,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A2TA312361/6/full.webp?v=72b2cb7e6a8a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A2TA312361/7/full.webp?v=8a728c1a9c48</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A2TA312361/8/full.webp?v=59f2f26d52ba</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A2TA312361/9/full.webp?v=21b5a15593bf</image>
       </images>
     </car>
     <car>
@@ -1168,7 +1416,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A2TA320802/0/full.webp?v=0e3d837fbff2</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A2TA320802/1/full.webp?v=dae69d694a86</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A2TA320802/2/full.webp?v=83f3525230ef</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A2TA320802/2/full.webp?v=231479ff50aa</image>
       </images>
     </car>
     <car>
@@ -1189,7 +1437,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA314409/0/full.webp?v=fdcd317781f1</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA314409/1/full.webp?v=8484fd08fb4c</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA314409/2/full.webp?v=65a3533c964b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA314409/2/full.webp?v=afacb6afe2dd</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA314409/3/full.webp?v=8f29ae3c0f97</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA314409/4/full.webp?v=44455af95493</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA314409/5/full.webp?v=c427b3d4c400</image>
@@ -1226,6 +1474,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA315415/10/full.webp?v=753e0676bffa</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA315415/11/full.webp?v=8bbc19f95498</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA315415/12/full.webp?v=a4007d67068b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA315415/13/full.webp?v=8847c12745fa</image>
       </images>
     </car>
     <car>
@@ -1246,7 +1495,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA318136/0/full.webp?v=8a5cc43edf1c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA318136/1/full.webp?v=280ffaff373e</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA318136/2/full.webp?v=069560a3695e</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA318136/2/full.webp?v=6612c23790bc</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA318136/3/full.webp?v=3f53b177c1db</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA318136/4/full.webp?v=1f14ddd380c3</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA318136/5/full.webp?v=93abb5522d5e</image>
@@ -1279,6 +1528,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A4TA316878/7/full.webp?v=22583bd464ad</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A4TA316878/8/full.webp?v=7823d99f881c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A4TA316878/9/full.webp?v=2ec63977b478</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A4TA316878/10/full.webp?v=252d9068d641</image>
       </images>
     </car>
     <car>
@@ -1301,6 +1551,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A4TA320803/1/full.webp?v=7b1d859ca98d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A4TA320803/2/full.webp?v=9b673d58ff9a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A4TA320803/3/full.webp?v=57a9127fb6ca</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A4TA320803/4/full.webp?v=8ea4cb4a9d75</image>
       </images>
     </car>
     <car>
@@ -1331,6 +1582,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A5TA314315/9/full.webp?v=aa7431cb2b76</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A5TA314315/10/full.webp?v=b8a066aca695</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A5TA314315/11/full.webp?v=142546aebbc3</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A5TA314315/12/full.webp?v=dcb2047d7b5c</image>
       </images>
     </car>
     <car>
@@ -1351,7 +1603,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA317062/0/full.webp?v=01fe7a03de50</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA317062/1/full.webp?v=16961e8670bf</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA317062/2/full.webp?v=1aed455f8bc2</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA317062/2/full.webp?v=de773c1e8f89</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA317062/3/full.webp?v=bb1de43db245</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA317062/4/full.webp?v=4377a2849f03</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA317062/5/full.webp?v=3dd2e48577e4</image>
@@ -1374,7 +1626,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., синий</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318230/0/full.webp?v=e2b93ccd1212</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318230/0/full.webp?v=d8bb92d33f7f</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318230/1/full.webp?v=450f3dc7149e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318230/2/full.webp?v=640c30823bec</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318230/3/full.webp?v=742d96319851</image>
@@ -1412,6 +1664,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318339/8/full.webp?v=d4be10bcb831</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318339/9/full.webp?v=0e2273b545ab</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318339/10/full.webp?v=ef11da5464af</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA318339/11/full.webp?v=bebcfe2de9a6</image>
       </images>
     </car>
     <car>
@@ -1432,7 +1685,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA319183/0/full.webp?v=a15306ef8053</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA319183/1/full.webp?v=6539980f0a83</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA319183/2/full.webp?v=bca3b90bdea7</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA319183/2/full.webp?v=8fc8de80a5dc</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA319183/3/full.webp?v=e5dbd75c9cc7</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA319183/4/full.webp?v=1c1d855964a4</image>
       </images>
@@ -1458,6 +1711,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA320804/2/full.webp?v=016dfc2225cb</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA320804/3/full.webp?v=61782a9fdabf</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA320804/4/full.webp?v=bac91d64e773</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA320804/5/full.webp?v=fb2e55984128</image>
       </images>
     </car>
     <car>
@@ -1484,6 +1738,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A8TA318259/5/full.webp?v=5a78b39017f9</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A8TA318259/6/full.webp?v=6aae93d0f8af</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A8TA318259/7/full.webp?v=cac3e546cbc4</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A8TA318259/8/full.webp?v=70f89d8999de</image>
       </images>
     </car>
     <car>
@@ -1502,7 +1757,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A9TA315435/0/full.webp?v=a46770b4f9a8</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A9TA315435/0/full.webp?v=5f1231972421</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A9TA315435/1/full.webp?v=16d678860722</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A9TA315435/2/full.webp?v=8e063a3c8d03</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A9TA315435/3/full.webp?v=400cbf5bd5c3</image>
@@ -1533,6 +1788,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04AXTA318201/4/full.webp?v=3853b90525dd</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04AXTA318201/5/full.webp?v=9581e2bcde50</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04AXTA318201/6/full.webp?v=f1509e9f6907</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04AXTA318201/7/full.webp?v=b5487d69e40b</image>
       </images>
     </car>
     <car>
@@ -1562,6 +1818,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0SA532474/8/full.webp?v=f14bfb988d99</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0SA532474/9/full.webp?v=1a96c3200ad1</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0SA532474/10/full.webp?v=f3f8fbe81640</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0SA532474/11/full.webp?v=3390e044c503</image>
       </images>
     </car>
     <car>
@@ -1580,7 +1837,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0TA589131/0/full.webp?v=b5dc989a2d06</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0TA589131/0/full.webp?v=3aaf3e9be8af</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0TA589131/1/full.webp?v=4c3503cb4066</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0TA589131/2/full.webp?v=8b8f10e08547</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0TA589131/3/full.webp?v=7039a80eb0b6</image>
@@ -1616,6 +1873,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA555215/7/full.webp?v=0b4aa93885ab</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA555215/8/full.webp?v=a5f0d1aa210e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA555215/9/full.webp?v=f2b7f3c40c00</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA555215/10/full.webp?v=2d398acde883</image>
       </images>
     </car>
     <car>
@@ -1644,6 +1902,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA572547/7/full.webp?v=9d2f3ea251d9</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA572547/8/full.webp?v=aca64876961a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA572547/9/full.webp?v=0bfb658a58e1</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA572547/10/full.webp?v=d3a82a7e9e1a</image>
       </images>
     </car>
     <car>
@@ -1662,7 +1921,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., голубой</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA577179/0/full.webp?v=eb7e352e89a9</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA577179/0/full.webp?v=900a5328c1a7</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA577179/1/full.webp?v=98d02180aeaa</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA577179/2/full.webp?v=f8519fc54226</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA577179/3/full.webp?v=c1d57d7a7bcb</image>
@@ -1693,7 +1952,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597576/0/full.webp?v=c7a99522f386</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597576/0/full.webp?v=ebdc80585985</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597576/1/full.webp?v=86b97f31fa08</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597576/2/full.webp?v=c151c555c6f9</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597576/3/full.webp?v=893def18ac79</image>
@@ -1722,7 +1981,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597612/0/full.webp?v=d91a9f95ced2</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597612/1/full.webp?v=58cdd9dfab66</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597612/2/full.webp?v=804379f60231</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597612/2/full.webp?v=84a130f17faf</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597612/3/full.webp?v=6ed27857e005</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597612/4/full.webp?v=aababb22d768</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597612/5/full.webp?v=69d5f80a7346</image>
@@ -1756,6 +2015,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A2TA556311/4/full.webp?v=3c53461d5350</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A2TA556311/5/full.webp?v=9709294c97cc</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A2TA556311/6/full.webp?v=4907dde9dad1</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A2TA556311/7/full.webp?v=f7792028d7ad</image>
       </images>
     </car>
     <car>
@@ -1782,6 +2042,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA596736/5/full.webp?v=8f3b4e8c57b2</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA596736/6/full.webp?v=66f6b660b698</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA596736/7/full.webp?v=0a0889c8b8b4</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA596736/8/full.webp?v=7e7cf28cdeec</image>
       </images>
     </car>
     <car>
@@ -1802,7 +2063,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA597658/0/full.webp?v=9db599016b14</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA597658/1/full.webp?v=9d5ff2398844</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA597658/2/full.webp?v=ca0b59443f3f</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA597658/2/full.webp?v=a9243c8fdc03</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA597658/3/full.webp?v=9e8b2900958b</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA597658/4/full.webp?v=432d05e92915</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA597658/5/full.webp?v=e8c47f61fda7</image>
@@ -1832,7 +2093,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA555225/0/full.webp?v=62ce6c9a43bf</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA555225/0/full.webp?v=a915d259ab87</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA555225/1/full.webp?v=174ea0261597</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA555225/2/full.webp?v=a74bafdfa408</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA555225/3/full.webp?v=f427ee501e1f</image>
@@ -1873,6 +2134,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA579735/11/full.webp?v=b95838b2201d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA579735/12/full.webp?v=de6e52b8e8e4</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA579735/13/full.webp?v=27fdca4772df</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA579735/14/full.webp?v=00359a8349cb</image>
       </images>
     </car>
     <car>
@@ -1901,6 +2163,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA587673/7/full.webp?v=092cb3b72a95</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA587673/8/full.webp?v=0a8234451b9f</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA587673/9/full.webp?v=681188ea7882</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A4TA587673/10/full.webp?v=d67c3b95c8fb</image>
       </images>
     </car>
     <car>
@@ -1919,7 +2182,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA587911/0/full.webp?v=a88fecc81de8</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA587911/0/full.webp?v=af418d943b6e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA587911/1/full.webp?v=42ccdb936929</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA587911/2/full.webp?v=53b1c627df0e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA587911/3/full.webp?v=378805a0770a</image>
@@ -1957,6 +2220,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA597211/8/full.webp?v=5b188d4e097d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA597211/9/full.webp?v=5384f43ef8ea</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA597211/10/full.webp?v=51a3993a5319</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA597211/11/full.webp?v=f34c199bf200</image>
       </images>
     </car>
     <car>
@@ -1986,6 +2250,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA583021/8/full.webp?v=4102f4c29a13</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA583021/9/full.webp?v=693c99fceafa</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA583021/10/full.webp?v=15e55d5787cb</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA583021/11/full.webp?v=d2abf99fefde</image>
       </images>
     </car>
     <car>
@@ -2005,7 +2270,7 @@
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA591524/0/full.webp?v=fa19f698cfd1</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA591524/1/full.webp?v=4bd94d20c41c</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA591524/1/full.webp?v=0f4ac8ef0626</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA591524/2/full.webp?v=4de79f11ef2e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA591524/3/full.webp?v=0904bf0d86f0</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA591524/4/full.webp?v=e4a7c6ec70d9</image>
@@ -2048,6 +2313,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA597209/10/full.webp?v=5d0fb418b66d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA597209/11/full.webp?v=dabfcf82a3e9</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA597209/12/full.webp?v=e4dc0c879077</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA597209/13/full.webp?v=8d4431fa8153</image>
       </images>
     </car>
     <car>
@@ -2066,7 +2332,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA548844/0/full.webp?v=8b6cc2c822b4</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA548844/0/full.webp?v=62426f9708ae</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA548844/1/full.webp?v=580fe58e072e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA548844/2/full.webp?v=7386d9dc978c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA548844/3/full.webp?v=72db1647c3ef</image>
@@ -2092,7 +2358,7 @@
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA589779/0/full.webp?v=84d4e248c6b3</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA589779/1/full.webp?v=79f9e4c9185c</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA589779/1/full.webp?v=6a144c60c708</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA589779/2/full.webp?v=96a9b133db7e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA589779/3/full.webp?v=598e603f4fd1</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA589779/4/full.webp?v=95544fdf7b4c</image>
@@ -2130,6 +2396,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA594951/6/full.webp?v=ebe5720edc90</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA594951/7/full.webp?v=4fea0f04c574</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA594951/8/full.webp?v=faef352fa5b0</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA594951/9/full.webp?v=f2ac2a318e6c</image>
       </images>
     </car>
     <car>
@@ -2150,7 +2417,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA596795/0/full.webp?v=84fb6a8c6f63</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA596795/1/full.webp?v=52d981ce4dff</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA596795/2/full.webp?v=d70fbaa7ecf3</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA596795/2/full.webp?v=496fdfecfaee</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA596795/3/full.webp?v=23d10aea2d48</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA596795/4/full.webp?v=bd3b0141c10b</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA596795/5/full.webp?v=a221910e66b3</image>
@@ -2179,7 +2446,7 @@
       <description>Автомобиль Haval Jolion, I Рестайлинг, Премиум, 1.5 AMT (150 л.с.) 4WD, 2025 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9SA527208/0/full.webp?v=d53bd1c985b9</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9SA527208/1/full.webp?v=d137b0cdb056</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9SA527208/1/full.webp?v=e0579c8bf33b</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9SA527208/2/full.webp?v=374bde171a4f</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9SA527208/3/full.webp?v=cc1cfdc7ab66</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9SA527208/4/full.webp?v=80e4fbbcc458</image>
@@ -2204,7 +2471,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA583554/0/full.webp?v=12fe9b8929a6</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA583554/0/full.webp?v=cfc7db7c8470</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA583554/1/full.webp?v=b82e55bc071e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA583554/2/full.webp?v=5d62de088d3d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA583554/3/full.webp?v=b582b6e12382</image>
@@ -2237,6 +2504,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA591122/5/full.webp?v=b9895969927c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA591122/6/full.webp?v=d9e94cf6672f</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA591122/7/full.webp?v=6ab74cb9ea56</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA591122/8/full.webp?v=cb36422a769d</image>
       </images>
     </car>
     <car>
@@ -2257,7 +2525,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA573051/0/full.webp?v=641f56df74ef</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA573051/1/full.webp?v=f2e2656af25e</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA573051/2/full.webp?v=7c9e0b672278</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA573051/2/full.webp?v=9770eda650d3</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA573051/3/full.webp?v=f112784f4285</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA573051/4/full.webp?v=354fef50b9ae</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA573051/5/full.webp?v=e02f9751a092</image>
@@ -2294,6 +2562,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA591548/8/full.webp?v=e16be75f47cf</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA591548/9/full.webp?v=4861c8bf0d42</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA591548/10/full.webp?v=3bc2c66df162</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA591548/11/full.webp?v=3df844018731</image>
       </images>
     </car>
     <car>
@@ -2322,6 +2591,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA309931/7/full.webp?v=ad7b6322d50f</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA309931/8/full.webp?v=c010d1816902</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA309931/9/full.webp?v=093d9e4f5bdf</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA309931/10/full.webp?v=1403f66e0274</image>
       </images>
     </car>
     <car>
@@ -2349,6 +2619,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA311212/6/full.webp?v=45522e555c2e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA311212/7/full.webp?v=a3a6bc569c85</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA311212/8/full.webp?v=5be63a35db6b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA311212/9/full.webp?v=5b734d231d78</image>
       </images>
     </car>
     <car>
@@ -2369,7 +2640,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA309808/0/full.webp?v=f07fcccf5756</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA309808/1/full.webp?v=f3730251fe29</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA309808/2/full.webp?v=6df65b156f20</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA309808/2/full.webp?v=96e56ad64c3d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA309808/3/full.webp?v=74fa92f90f98</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA309808/4/full.webp?v=af4ee70aa634</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA309808/5/full.webp?v=28d8a9073f82</image>
@@ -2394,7 +2665,7 @@
       <description>Автомобиль Haval Dargo, I Рестайлинг, Премиум, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA937013/0/full.webp?v=aa21045cae9f</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA937013/1/full.webp?v=a1bbc1891a2a</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA937013/1/full.webp?v=08ccde5a3245</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA937013/2/full.webp?v=85722bb43818</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA937013/3/full.webp?v=73a4f4aad7ce</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A1TA937013/4/full.webp?v=9dc4ab4a6bbd</image>
@@ -2429,6 +2700,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA308876/5/full.webp?v=b7af16c07c8c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA308876/6/full.webp?v=922c219e8c69</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA308876/7/full.webp?v=9ccb5b81dc5b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA308876/8/full.webp?v=5cabc5895ed8</image>
       </images>
     </car>
     <car>
@@ -2456,6 +2728,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA309705/6/full.webp?v=d77d1fd59e32</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA309705/7/full.webp?v=72bbb97f164e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA309705/8/full.webp?v=73c15fc94367</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA309705/9/full.webp?v=c94b8f3325db</image>
       </images>
     </car>
     <car>
@@ -2474,7 +2747,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA320297/0/full.webp?v=0fe31e37f632</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA320297/0/full.webp?v=c32ba37e6cc5</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA320297/1/full.webp?v=ec32a38733ac</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA320297/2/full.webp?v=45d5d11c0ce0</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA320297/3/full.webp?v=f15ccbd4c01b</image>
@@ -2514,6 +2787,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA604822/8/full.webp?v=a1a2b0eb7783</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA604822/9/full.webp?v=6ca08e32f840</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA604822/10/full.webp?v=e2dd311776e2</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA604822/11/full.webp?v=300ba62d3cc5</image>
       </images>
     </car>
     <car>
@@ -2539,6 +2813,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA605047/4/full.webp?v=6bc2c46594bb</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA605047/5/full.webp?v=86542cb5ce57</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA605047/6/full.webp?v=1c609534fe73</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA605047/7/full.webp?v=a25016e73a42</image>
       </images>
     </car>
     <car>
@@ -2557,7 +2832,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., оранжевый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/0/full.webp?v=1c99937010a6</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/0/full.webp?v=3c910da0b02d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/1/full.webp?v=8998bffd67bb</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/2/full.webp?v=af8708ce8e0a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/3/full.webp?v=39883658bf8b</image>
@@ -2569,6 +2844,25 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/9/full.webp?v=e9bffb96bee4</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/10/full.webp?v=c0fbb087e63c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/11/full.webp?v=4709a4740276</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A2TA943662</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A2TA943662</vin>
+      <price>3899000</price>
+      <sale_price>3599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA943662/0/full.webp?v=4ab7a789d7e0</image>
       </images>
     </car>
     <car>
@@ -2594,6 +2888,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA309907/4/full.webp?v=69bf740db0d7</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA309907/5/full.webp?v=7fa5defc3161</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA309907/6/full.webp?v=45799f586908</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA309907/7/full.webp?v=f01bc4e62e45</image>
       </images>
     </car>
     <car>
@@ -2621,6 +2916,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313553/6/full.webp?v=bfcc4989616e</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313553/7/full.webp?v=8174574d6d7c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313553/8/full.webp?v=80c497a271dc</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313553/9/full.webp?v=b09eafb5b1e9</image>
       </images>
     </car>
     <car>
@@ -2649,6 +2945,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313990/7/full.webp?v=447462ea47e6</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313990/8/full.webp?v=365a7e1e3015</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313990/9/full.webp?v=0142120df4d8</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA313990/10/full.webp?v=ec2b465844e4</image>
       </images>
     </car>
     <car>
@@ -2674,6 +2971,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA320292/4/full.webp?v=d5bd9a234d58</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA320292/5/full.webp?v=9f6e1a4df52d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA320292/6/full.webp?v=2cafa80b53bf</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A3TA320292/7/full.webp?v=5d420cd589bd</image>
       </images>
     </car>
     <car>
@@ -2700,6 +2998,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A4TA308829/5/full.webp?v=bf1b5052c4ce</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A4TA308829/6/full.webp?v=6fa77a569976</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A4TA308829/7/full.webp?v=aa03073c0e1b</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A4TA308829/8/full.webp?v=a28987d402ea</image>
       </images>
     </car>
     <car>
@@ -2718,7 +3017,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309018/0/full.webp?v=63b01ea89ca7</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309018/0/full.webp?v=3aeea1650dd6</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309018/1/full.webp?v=5125fea1f943</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309018/2/full.webp?v=a23533092371</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309018/3/full.webp?v=ebfe9a84614c</image>
@@ -2758,6 +3057,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309889/8/full.webp?v=3c152a71cb0c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309889/9/full.webp?v=113af73f0c40</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309889/10/full.webp?v=c57394a6c668</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309889/11/full.webp?v=93fed38952f8</image>
       </images>
     </car>
     <car>
@@ -2781,6 +3081,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA605768/2/full.webp?v=0dd84a08d932</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA605768/3/full.webp?v=d8318e05af22</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA605768/4/full.webp?v=84e6afbec01f</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA605768/5/full.webp?v=a5d2a39de123</image>
       </images>
     </car>
     <car>
@@ -2807,6 +3108,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA309691/5/full.webp?v=b695bc664ba1</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA309691/6/full.webp?v=5901522480fe</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA309691/7/full.webp?v=69df9967da7e</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA309691/8/full.webp?v=1b65736061cf</image>
       </images>
     </car>
     <car>
@@ -2827,7 +3129,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/0/full.webp?v=4f6043440f07</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/1/full.webp?v=3cdbfc544695</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/2/full.webp?v=538457ccc7af</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/2/full.webp?v=ee11d3e03b57</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/3/full.webp?v=80bfc42b18e5</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/4/full.webp?v=649c17551f3d</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/5/full.webp?v=c6f13abdc221</image>
@@ -2836,6 +3138,44 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/8/full.webp?v=079dd4c2e937</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/9/full.webp?v=33b0605c7661</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA605195/10/full.webp?v=3b554d55e4fa</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A6TA942532</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A6TA942532</vin>
+      <price>3899000</price>
+      <sale_price>3599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA942532/0/full.webp?v=f595e479f03e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A6TA943390</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-graphite-quartz-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A6TA943390</vin>
+      <price>3899000</price>
+      <sale_price>3599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A6TA943390/0/full.webp?v=cc0ad2e35ff0</image>
       </images>
     </car>
     <car>
@@ -2863,6 +3203,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA309630/6/full.webp?v=2514e8e83bbc</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA309630/7/full.webp?v=fa8a4903f823</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA309630/8/full.webp?v=ab258cc9e140</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA309630/9/full.webp?v=39e18043943b</image>
       </images>
     </car>
     <car>
@@ -2881,7 +3222,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval Dargo, I Рестайлинг, Премиум, 2.0 AMT (200 л.с.) 4WD, 2026 г., оранжевый</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA938353/0/full.webp?v=19455a142425</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA938353/0/full.webp?v=2aec3a31eac3</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA938353/1/full.webp?v=4dfec07e0d25</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA938353/2/full.webp?v=d1a0c7739742</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA938353/3/full.webp?v=c11babb84dbb</image>
@@ -2907,7 +3248,7 @@
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/0/full.webp?v=4af8c59c6028</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/1/full.webp?v=ad33744a1f96</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/2/full.webp?v=6930fdae90fb</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/2/full.webp?v=bed5893f481f</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/3/full.webp?v=41a5740fecfb</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/4/full.webp?v=759603e5e861</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/5/full.webp?v=446404d55671</image>
@@ -2918,6 +3259,25 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/10/full.webp?v=5c5922de1e6c</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/11/full.webp?v=49c6813797b1</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA310060/12/full.webp?v=2b477fa47d09</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A9TA943853</unique_id>
+      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A9TA943853</vin>
+      <price>3899000</price>
+      <sale_price>3599000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A9TA943853/0/full.webp?v=022ac51adf76</image>
       </images>
     </car>
     <car>
@@ -2944,6 +3304,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309466/5/full.webp?v=113fed597789</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309466/6/full.webp?v=afcf517ba96a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309466/7/full.webp?v=a6fd5db8e4f9</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309466/8/full.webp?v=e044750f4cd5</image>
       </images>
     </car>
     <car>
@@ -2974,6 +3335,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309659/9/full.webp?v=cbf8109022e2</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309659/10/full.webp?v=b0a9f4226ee8</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309659/11/full.webp?v=35544cc03e2d</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309659/12/full.webp?v=8d939e014e0b</image>
       </images>
     </car>
     <car>
@@ -3005,6 +3367,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309693/10/full.webp?v=9cbfe7e0f096</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309693/11/full.webp?v=e331b78242ef</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309693/12/full.webp?v=ab84bb76b329</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309693/13/full.webp?v=fe0db47954a2</image>
       </images>
     </car>
     <car>
@@ -3040,6 +3403,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA310407/14/full.webp?v=b895aceadf64</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA310407/15/full.webp?v=08f2d3b70aff</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA310407/16/full.webp?v=a65a30c238c2</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA310407/17/full.webp?v=9569450fbc54</image>
       </images>
     </car>
     <car>
@@ -3059,34 +3423,11 @@
       <description>Автомобиль Haval F7, II, Премиум (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/0/full.webp?v=9ee00a9a239f</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/1/full.webp?v=b7c7125284d4</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/1/full.webp?v=fbdde67f9677</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/2/full.webp?v=25606c646f69</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/3/full.webp?v=2ce8512e93bd</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/4/full.webp?v=049294cae265</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/5/full.webp?v=0b20b1399e1f</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGFF06AXTA937284</unique_id>
-      <url>https://avtosalon2000.alexsab.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Dargo, I Рестайлинг</folder_id>
-      <year>2026</year>
-      <vin>XZGFF06AXTA937284</vin>
-      <price>3499000</price>
-      <sale_price>3199000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>300000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Haval Dargo, I Рестайлинг, Оптимум, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA937284/0/full.webp?v=47d38d6660f5</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA937284/1/full.webp?v=f0671f29b22a</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA937284/2/full.webp?v=e55a270815d2</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA937284/3/full.webp?v=fe6d50ae314d</image>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA937284/4/full.webp?v=70ffec746e86</image>
       </images>
     </car>
     <car>
@@ -3105,7 +3446,7 @@
       <availability>В наличии</availability>
       <description>Автомобиль Haval F7x, II, Техно +, 2.0 AMT (231 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A2TA609145/0/full.webp?v=16bc57a01590</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A2TA609145/0/full.webp?v=f64728db8958</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A2TA609145/1/full.webp?v=ada40f04d4af</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A2TA609145/2/full.webp?v=277b3487c0e9</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A2TA609145/3/full.webp?v=50267a196b4b</image>
@@ -3139,6 +3480,7 @@
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A6TA609178/9/full.webp?v=978e9255e488</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A6TA609178/10/full.webp?v=6dedcdd0697a</image>
         <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A6TA609178/11/full.webp?v=933ace78c06f</image>
+        <image>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A6TA609178/12/full.webp?v=7a4f4d962216</image>
       </images>
     </car>
   </cars>
