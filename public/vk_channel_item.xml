@@ -117,25 +117,25 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>EC2EF4A51TA033627</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-mt-143-hp-optimum-20t-at-2026-gray-2026/</link>
+    <id>EC2EF4A51TA033384</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</link>
     <brand>Haval</brand>
     <model>M6, II</model>
     <year>2026</year>
     <title>Haval M6, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA033627/0/full.webp?v=d3cecb303c5e</image_link>
-    <price>2099000 RUB</price>
-    <sale_price>1849000 RUB</sale_price>
-    <min_price>1849000 RUB</min_price>
-    <max_price>2099000 RUB</max_price>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA033384/0/full.webp?v=d55e6397d95d</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 MT (143 л.с.), 2026 г.</description>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
     <exterior_color>Серый</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
-    <vin>EC2EF4A51TA033627</vin>
+    <vin>EC2EF4A51TA033384</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -159,6 +159,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>EC2EF4A51TA033787</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EC2EF4A51TA033904</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A51TA033904/0/full.webp?v=6a0b721ebdea</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A51TA033904</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -255,13 +278,36 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>EC2EF4A53TA018692</id>
+    <id>EC2EF4A52TA031921</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA031921/0/full.webp?v=652f837b1a32</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A52TA031921</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EC2EF4A52TA032650</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</link>
     <brand>Haval</brand>
     <model>M6, II</model>
     <year>2026</year>
     <title>Haval M6, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A53TA018692/0/full.webp?v=81c9e6bdc8cb</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A52TA032650/0/full.webp?v=0280467ab229</image_link>
     <price>2349000 RUB</price>
     <sale_price>2099000 RUB</sale_price>
     <min_price>2099000 RUB</min_price>
@@ -273,7 +319,7 @@
       <value>0</value>
       <unit>KM</unit>
     </mileage>
-    <vin>EC2EF4A53TA018692</vin>
+    <vin>EC2EF4A52TA032650</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -330,7 +376,7 @@
     <model>M6, II</model>
     <year>2026</year>
     <title>Haval M6, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA024064/0/full.webp?v=ec7e67347460</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA024064/0/full.webp?v=618dfe3fe9c3</image_link>
     <price>2349000 RUB</price>
     <sale_price>2099000 RUB</sale_price>
     <min_price>2099000 RUB</min_price>
@@ -399,7 +445,7 @@
     <model>M6, II</model>
     <year>2026</year>
     <title>Haval M6, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/0/full.webp?v=2d7bc5dc6179</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA028356/0/full.webp?v=097644848ac4</image_link>
     <price>2349000 RUB</price>
     <sale_price>2099000 RUB</sale_price>
     <min_price>2099000 RUB</min_price>
@@ -462,6 +508,75 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>EC2EF4A54TA034349</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA034349/0/full.webp?v=e248165fb4b4</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A54TA034349</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EC2EF4A54TA034383</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA034383/0/full.webp?v=516280de51fe</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A54TA034383</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EC2EF4A54TA034609</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A54TA034609/0/full.webp?v=9b4c24503ce9</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A54TA034609</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>EC2EF4A55TA021710</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</link>
     <brand>Haval</brand>
@@ -485,6 +600,75 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>EC2EF4A55TA031637</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA031637/0/full.webp?v=e20968da9ab1</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A55TA031637</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EC2EF4A55TA032724</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA032724/0/full.webp?v=063e54905d82</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A55TA032724</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EC2EF4A55TA034604</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A55TA034604/0/full.webp?v=6a4d91ae93b9</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A55TA034604</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>EC2EF4A56TA031789</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</link>
     <brand>Haval</brand>
@@ -504,6 +688,75 @@
       <unit>KM</unit>
     </mileage>
     <vin>EC2EF4A56TA031789</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EC2EF4A56TA034305</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A56TA034305/0/full.webp?v=05013c571065</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A56TA034305</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EC2EF4A57TA032630</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A57TA032630/0/full.webp?v=7d9c6c29f3e4</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A57TA032630</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EC2EF4A57TA032899</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A57TA032899/0/full.webp?v=91e8abdf3dad</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A57TA032899</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -623,6 +876,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>EC2EF4A58TA032779</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A58TA032779/0/full.webp?v=4607b1642af4</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A58TA032779</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>EC2EF4A59TA028353</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</link>
     <brand>Haval</brand>
@@ -669,13 +945,36 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>EC2EF4A59TA031575</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</link>
+    <brand>Haval</brand>
+    <model>M6, II</model>
+    <year>2026</year>
+    <title>Haval M6, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A59TA031575/0/full.webp?v=44dc1d8d333b</image_link>
+    <price>2349000 RUB</price>
+    <sale_price>2099000 RUB</sale_price>
+    <min_price>2099000 RUB</min_price>
+    <max_price>2349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EC2EF4A59TA031575</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>EC2EF4A5XTA016793</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</link>
     <brand>Haval</brand>
     <model>M6, II</model>
     <year>2026</year>
     <title>Haval M6, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA016793/0/full.webp?v=6469191128db</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/EC2EF4A5XTA016793/0/full.webp?v=a912b9abc033</image_link>
     <price>2349000 RUB</price>
     <sale_price>2099000 RUB</sale_price>
     <min_price>2099000 RUB</min_price>
@@ -830,25 +1129,48 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGEE04A0TA594714</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-smoky-pearls-2026/</link>
+    <id>XZGEE04A1TA500310</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-smoky-pearls-2026/</link>
     <brand>Haval</brand>
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
-    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A0TA594714/0/full.webp?v=f56523333c86</image_link>
-    <price>2499000 RUB</price>
-    <sale_price>2249000 RUB</sale_price>
-    <min_price>2249000 RUB</min_price>
-    <max_price>2499000 RUB</max_price>
+    <title>Haval Jolion, I Рестайлинг 2 Комфорт 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A1TA500310/0/full.webp?v=17dab96eb30b</image_link>
+    <price>2099000 RUB</price>
+    <sale_price>1849000 RUB</sale_price>
+    <min_price>1849000 RUB</min_price>
+    <max_price>2099000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Комфорт, 1.5 MT (143 л.с.), 2026 г.</description>
     <exterior_color>Серый</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
-    <vin>XZGEE04A0TA594714</vin>
+    <vin>XZGEE04A1TA500310</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGEE04A2TA500879</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-noble-agate-2026/</link>
+    <brand>Haval</brand>
+    <model>Jolion, I Рестайлинг 2</model>
+    <year>2026</year>
+    <title>Haval Jolion, I Рестайлинг 2 Комфорт 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A2TA500879/0/full.webp?v=eccde6eb983d</image_link>
+    <price>2099000 RUB</price>
+    <sale_price>1849000 RUB</sale_price>
+    <min_price>1849000 RUB</min_price>
+    <max_price>2099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Комфорт, 1.5 MT (143 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGEE04A2TA500879</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -918,75 +1240,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGEE04A3TA596912</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGEE04A3TA597431</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-noble-agate-2026/</link>
-    <brand>Haval</brand>
-    <model>Jolion, I Рестайлинг 2</model>
-    <year>2026</year>
-    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A3TA597431/0/full.webp?v=242d48bbcba8</image_link>
-    <price>2499000 RUB</price>
-    <sale_price>2249000 RUB</sale_price>
-    <min_price>2249000 RUB</min_price>
-    <max_price>2499000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGEE04A3TA597431</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGEE04A4TA543586</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-galactic-black-2026/</link>
-    <brand>Haval</brand>
-    <model>Jolion, I Рестайлинг 2</model>
-    <year>2026</year>
-    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA543586/0/full.webp?v=5db1761d2e41</image_link>
-    <price>2499000 RUB</price>
-    <sale_price>2249000 RUB</sale_price>
-    <min_price>2249000 RUB</min_price>
-    <max_price>2499000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGEE04A4TA543586</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGEE04A4TA597440</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-noble-agate-2026/</link>
-    <brand>Haval</brand>
-    <model>Jolion, I Рестайлинг 2</model>
-    <year>2026</year>
-    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A4TA597440/0/full.webp?v=ec239698220f</image_link>
-    <price>2499000 RUB</price>
-    <sale_price>2249000 RUB</sale_price>
-    <min_price>2249000 RUB</min_price>
-    <max_price>2499000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGEE04A4TA597440</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -1083,6 +1336,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>XZGEE04A7TA500862</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-noble-agate-2026/</link>
+    <brand>Haval</brand>
+    <model>Jolion, I Рестайлинг 2</model>
+    <year>2026</year>
+    <title>Haval Jolion, I Рестайлинг 2 Комфорт 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA500862/0/full.webp?v=7033ae9d56db</image_link>
+    <price>2099000 RUB</price>
+    <sale_price>1849000 RUB</sale_price>
+    <min_price>1849000 RUB</min_price>
+    <max_price>2099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Комфорт, 1.5 MT (143 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGEE04A7TA500862</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>XZGEE04A7TA591647</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-premium-galactic-black-2026/</link>
     <brand>Haval</brand>
@@ -1106,71 +1382,25 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGEE04A7TA595200</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-smoky-pearls-2026/</link>
+    <id>XZGEE04A9TA500314</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-smoky-pearls-2026/</link>
     <brand>Haval</brand>
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
-    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A7TA595200/0/full.webp?v=b3ea0eb57c1f</image_link>
-    <price>2499000 RUB</price>
-    <sale_price>2249000 RUB</sale_price>
-    <min_price>2249000 RUB</min_price>
-    <max_price>2499000 RUB</max_price>
+    <title>Haval Jolion, I Рестайлинг 2 Комфорт 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A9TA500314/0/full.webp?v=7f499cd54c84</image_link>
+    <price>2099000 RUB</price>
+    <sale_price>1849000 RUB</sale_price>
+    <min_price>1849000 RUB</min_price>
+    <max_price>2099000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Комфорт, 1.5 MT (143 л.с.), 2026 г.</description>
     <exterior_color>Серый</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
-    <vin>XZGEE04A7TA595200</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGEE04A9TA595201</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-smoky-pearls-2026/</link>
-    <brand>Haval</brand>
-    <model>Jolion, I Рестайлинг 2</model>
-    <year>2026</year>
-    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04A9TA595201/0/full.webp?v=8e8e0fbd4b67</image_link>
-    <price>2499000 RUB</price>
-    <sale_price>2249000 RUB</sale_price>
-    <min_price>2249000 RUB</min_price>
-    <max_price>2499000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGEE04A9TA595201</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGEE04AXTA597443</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-noble-agate-2026/</link>
-    <brand>Haval</brand>
-    <model>Jolion, I Рестайлинг 2</model>
-    <year>2026</year>
-    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEE04AXTA597443/0/full.webp?v=dd76ebe53e12</image_link>
-    <price>2499000 RUB</price>
-    <sale_price>2249000 RUB</sale_price>
-    <min_price>2249000 RUB</min_price>
-    <max_price>2499000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGEE04AXTA597443</vin>
+    <vin>XZGEE04A9TA500314</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -1342,7 +1572,7 @@
     <model>F7, II</model>
     <year>2026</year>
     <title>Haval F7, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA315415/0/full.webp?v=dacf4fd83760</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A3TA315415/0/full.webp?v=228d248ab384</image_link>
     <price>2999000 RUB</price>
     <sale_price>2749000 RUB</sale_price>
     <min_price>2749000 RUB</min_price>
@@ -1566,6 +1796,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>XZGEF04A6TA321211</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-smoky-pearls-2026/</link>
+    <brand>Haval</brand>
+    <model>F7, II</model>
+    <year>2026</year>
+    <title>Haval F7, II Премиум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A6TA321211/0/full.webp?v=e782c4211cf1</image_link>
+    <price>3199000 RUB</price>
+    <sale_price>2949000 RUB</sale_price>
+    <min_price>2949000 RUB</min_price>
+    <max_price>3199000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGEF04A6TA321211</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>XZGEF04A8TA318259</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-galactic-black-2026/</link>
     <brand>Haval</brand>
@@ -1589,13 +1842,36 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>XZGEF04A8TA321176</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-noble-agate-2026/</link>
+    <brand>Haval</brand>
+    <model>F7, II</model>
+    <year>2026</year>
+    <title>Haval F7, II Премиум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A8TA321176/0/full.webp?v=d947787affcf</image_link>
+    <price>3199000 RUB</price>
+    <sale_price>2949000 RUB</sale_price>
+    <min_price>2949000 RUB</min_price>
+    <max_price>3199000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGEF04A8TA321176</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>XZGEF04A9TA315435</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-smoky-pearls-2026/</link>
     <brand>Haval</brand>
     <model>F7, II</model>
     <year>2026</year>
     <title>Haval F7, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A9TA315435/0/full.webp?v=a46770b4f9a8</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A9TA315435/0/full.webp?v=5f1231972421</image_link>
     <price>2999000 RUB</price>
     <sale_price>2749000 RUB</sale_price>
     <min_price>2749000 RUB</min_price>
@@ -1608,6 +1884,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGEF04A9TA315435</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGEF04A9TA321140</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-galactic-black-2026/</link>
+    <brand>Haval</brand>
+    <model>F7, II</model>
+    <year>2026</year>
+    <title>Haval F7, II Премиум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGEF04A9TA321140/0/full.webp?v=b4652dccde6e</image_link>
+    <price>3199000 RUB</price>
+    <sale_price>2949000 RUB</sale_price>
+    <min_price>2949000 RUB</min_price>
+    <max_price>3199000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGEF04A9TA321140</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -1658,25 +1957,25 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGFE04A0TA589131</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-noble-agate-2026/</link>
+    <id>XZGFE04A1TA501641</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-magmatic-red-2026/</link>
     <brand>Haval</brand>
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
-    <title>Haval Jolion, I Рестайлинг 2 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A0TA589131/0/full.webp?v=b5dc989a2d06</image_link>
-    <price>2849000 RUB</price>
-    <sale_price>2599000 RUB</sale_price>
-    <min_price>2599000 RUB</min_price>
-    <max_price>2849000 RUB</max_price>
+    <title>Haval Jolion, I Рестайлинг 2 Техно+ 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA501641/0/full.webp?v=bf0cc60e99d4</image_link>
+    <price>2949000 RUB</price>
+    <sale_price>2699000 RUB</sale_price>
+    <min_price>2699000 RUB</min_price>
+    <max_price>2949000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Красный</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
-    <vin>XZGFE04A0TA589131</vin>
+    <vin>XZGFE04A1TA501641</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -1710,7 +2009,7 @@
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
     <title>Haval Jolion, I Рестайлинг 2 Техно+ 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA572547/0/full.webp?v=2b50f8e70c4e</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA572547/0/full.webp?v=c9f327d8074a</image_link>
     <price>2949000 RUB</price>
     <sale_price>2699000 RUB</sale_price>
     <min_price>2699000 RUB</min_price>
@@ -1756,7 +2055,7 @@
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
     <title>Haval Jolion, I Рестайлинг 2 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597576/0/full.webp?v=c7a99522f386</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A1TA597576/0/full.webp?v=ebdc80585985</image_link>
     <price>2849000 RUB</price>
     <sale_price>2599000 RUB</sale_price>
     <min_price>2599000 RUB</min_price>
@@ -1796,6 +2095,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>XZGFE04A2TA500482</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-smoky-pearls-2026/</link>
+    <brand>Haval</brand>
+    <model>Jolion, I Рестайлинг 2</model>
+    <year>2026</year>
+    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A2TA500482/0/full.webp?v=d743f7202ba5</image_link>
+    <price>2649000 RUB</price>
+    <sale_price>2399000 RUB</sale_price>
+    <min_price>2399000 RUB</min_price>
+    <max_price>2649000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFE04A2TA500482</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>XZGFE04A2TA556311</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</link>
     <brand>Haval</brand>
@@ -1819,13 +2141,36 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>XZGFE04A3TA500569</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-smoky-pearls-2026/</link>
+    <brand>Haval</brand>
+    <model>Jolion, I Рестайлинг 2</model>
+    <year>2026</year>
+    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA500569/0/full.webp?v=f174eae0a781</image_link>
+    <price>2649000 RUB</price>
+    <sale_price>2399000 RUB</sale_price>
+    <min_price>2399000 RUB</min_price>
+    <max_price>2649000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFE04A3TA500569</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>XZGFE04A3TA596736</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-noble-agate-2026/</link>
     <brand>Haval</brand>
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
     <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA596736/0/full.webp?v=ea571a8b7e6e</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A3TA596736/0/full.webp?v=1c6309135a56</image_link>
     <price>2649000 RUB</price>
     <sale_price>2399000 RUB</sale_price>
     <min_price>2399000 RUB</min_price>
@@ -1940,7 +2285,7 @@
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
     <title>Haval Jolion, I Рестайлинг 2 Техно+ 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA587911/0/full.webp?v=a88fecc81de8</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA587911/0/full.webp?v=af418d943b6e</image_link>
     <price>2949000 RUB</price>
     <sale_price>2699000 RUB</sale_price>
     <min_price>2699000 RUB</min_price>
@@ -1980,6 +2325,52 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>XZGFE04A5TA599072</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-smoky-pearls-2026/</link>
+    <brand>Haval</brand>
+    <model>Jolion, I Рестайлинг 2</model>
+    <year>2026</year>
+    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA599072/0/full.webp?v=c5fa91b91d64</image_link>
+    <price>2649000 RUB</price>
+    <sale_price>2399000 RUB</sale_price>
+    <min_price>2399000 RUB</min_price>
+    <max_price>2649000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFE04A5TA599072</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGFE04A5TA599105</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-smoky-pearls-2026/</link>
+    <brand>Haval</brand>
+    <model>Jolion, I Рестайлинг 2</model>
+    <year>2026</year>
+    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A5TA599105/0/full.webp?v=afd356d41f2e</image_link>
+    <price>2649000 RUB</price>
+    <sale_price>2399000 RUB</sale_price>
+    <min_price>2399000 RUB</min_price>
+    <max_price>2649000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFE04A5TA599105</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>XZGFE04A7TA583021</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</link>
     <brand>Haval</brand>
@@ -2009,7 +2400,7 @@
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
     <title>Haval Jolion, I Рестайлинг 2 Техно+ 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA591524/0/full.webp?v=fa19f698cfd1</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA591524/0/full.webp?v=c08011d4314c</image_link>
     <price>2949000 RUB</price>
     <sale_price>2699000 RUB</sale_price>
     <min_price>2699000 RUB</min_price>
@@ -2022,6 +2413,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFE04A7TA591524</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGFE04A7TA592849</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-smoky-pearls-2026/</link>
+    <brand>Haval</brand>
+    <model>Jolion, I Рестайлинг 2</model>
+    <year>2026</year>
+    <title>Haval Jolion, I Рестайлинг 2 Техно+ 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA592849/0/full.webp?v=1ff36e98aed2</image_link>
+    <price>2949000 RUB</price>
+    <sale_price>2699000 RUB</sale_price>
+    <min_price>2699000 RUB</min_price>
+    <max_price>2949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFE04A7TA592849</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -2045,6 +2459,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFE04A7TA597209</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGFE04A7TA599722</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-noble-agate-2026/</link>
+    <brand>Haval</brand>
+    <model>Jolion, I Рестайлинг 2</model>
+    <year>2026</year>
+    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A7TA599722/0/full.webp?v=429e0e1b8bee</image_link>
+    <price>2649000 RUB</price>
+    <sale_price>2399000 RUB</sale_price>
+    <min_price>2399000 RUB</min_price>
+    <max_price>2649000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFE04A7TA599722</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -2118,29 +2555,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGFE04A8TA596795</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-noble-agate-2026/</link>
-    <brand>Haval</brand>
-    <model>Jolion, I Рестайлинг 2</model>
-    <year>2026</year>
-    <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A8TA596795/0/full.webp?v=84fb6a8c6f63</image_link>
-    <price>2649000 RUB</price>
-    <sale_price>2399000 RUB</sale_price>
-    <min_price>2399000 RUB</min_price>
-    <max_price>2649000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFE04A8TA596795</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>XZGFE04A9SA527208</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-15-amt-150-hp-4wd-premium-galactic-black-2025/</link>
     <brand>Haval</brand>
@@ -2164,25 +2578,25 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGFE04A9TA583554</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-noble-agate-2026/</link>
+    <id>XZGFE04A9TA500138</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-heavenly-topaz-2026/</link>
     <brand>Haval</brand>
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
     <title>Haval Jolion, I Рестайлинг 2 Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA583554/0/full.webp?v=12fe9b8929a6</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04A9TA500138/0/full.webp?v=2426018bbc55</image_link>
     <price>2649000 RUB</price>
     <sale_price>2399000 RUB</sale_price>
     <min_price>2399000 RUB</min_price>
     <max_price>2649000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
+    <exterior_color>Голубой</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
-    <vin>XZGFE04A9TA583554</vin>
+    <vin>XZGFE04A9TA500138</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -2206,6 +2620,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFE04A9TA591122</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGFE04AXTA501458</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-smoky-pearls-2026/</link>
+    <brand>Haval</brand>
+    <model>Jolion, I Рестайлинг 2</model>
+    <year>2026</year>
+    <title>Haval Jolion, I Рестайлинг 2 Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA501458/0/full.webp?v=f9978ff45c14</image_link>
+    <price>2849000 RUB</price>
+    <sale_price>2599000 RUB</sale_price>
+    <min_price>2599000 RUB</min_price>
+    <max_price>2849000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFE04AXTA501458</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -2239,7 +2676,7 @@
     <model>Jolion, I Рестайлинг 2</model>
     <year>2026</year>
     <title>Haval Jolion, I Рестайлинг 2 Техно+ 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA591548/0/full.webp?v=3e69f56ef90d</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFE04AXTA591548/0/full.webp?v=cc068fb09bc0</image_link>
     <price>2949000 RUB</price>
     <sale_price>2699000 RUB</sale_price>
     <min_price>2699000 RUB</min_price>
@@ -2285,7 +2722,7 @@
     <model>F7, II</model>
     <year>2026</year>
     <title>Haval F7, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA311212/0/full.webp?v=dbae300fe7bc</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A0TA311212/0/full.webp?v=159e90d72788</image_link>
     <price>3399000 RUB</price>
     <sale_price>3149000 RUB</sale_price>
     <min_price>3149000 RUB</min_price>
@@ -2469,7 +2906,7 @@
     <model>Dargo, I Рестайлинг</model>
     <year>2026</year>
     <title>Haval Dargo, I Рестайлинг Техно + 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/0/full.webp?v=1c99937010a6</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A2TA940230/0/full.webp?v=3c910da0b02d</image_link>
     <price>3899000 RUB</price>
     <sale_price>3599000 RUB</sale_price>
     <min_price>3599000 RUB</min_price>
@@ -2630,7 +3067,7 @@
     <model>F7, II</model>
     <year>2026</year>
     <title>Haval F7, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309018/0/full.webp?v=63b01ea89ca7</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309018/0/full.webp?v=3aeea1650dd6</image_link>
     <price>3399000 RUB</price>
     <sale_price>3149000 RUB</sale_price>
     <min_price>3149000 RUB</min_price>
@@ -2653,7 +3090,7 @@
     <model>F7, II</model>
     <year>2026</year>
     <title>Haval F7, II Оптимум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309889/0/full.webp?v=16e6798836f3</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA309889/0/full.webp?v=4b5f9659b838</image_link>
     <price>3399000 RUB</price>
     <sale_price>3149000 RUB</sale_price>
     <min_price>3149000 RUB</min_price>
@@ -2666,6 +3103,52 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFF06A5TA309889</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGFF06A5TA320570</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-200-hp-4wd-optimum-20t-at-2026-noble-agate-2026/</link>
+    <brand>Haval</brand>
+    <model>F7, II</model>
+    <year>2026</year>
+    <title>Haval F7, II Оптимум (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA320570/0/full.webp?v=51c308e4e225</image_link>
+    <price>3399000 RUB</price>
+    <sale_price>3149000 RUB</sale_price>
+    <min_price>3149000 RUB</min_price>
+    <max_price>3399000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFF06A5TA320570</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGFF06A5TA321038</id>
+    <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-200-hp-4wd-techno--plus-2026-noble-agate-2026/</link>
+    <brand>Haval</brand>
+    <model>F7, II</model>
+    <year>2026</year>
+    <title>Haval F7, II Техно + (2026) 2026</title>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A5TA321038/0/full.webp?v=74ea026b2f35</image_link>
+    <price>3799000 RUB</price>
+    <sale_price>3549000 RUB</sale_price>
+    <min_price>3549000 RUB</min_price>
+    <max_price>3799000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFF06A5TA321038</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -2814,7 +3297,7 @@
     <model>Dargo, I Рестайлинг</model>
     <year>2026</year>
     <title>Haval Dargo, I Рестайлинг Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA938353/0/full.webp?v=19455a142425</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06A8TA938353/0/full.webp?v=2aec3a31eac3</image_link>
     <price>3699000 RUB</price>
     <sale_price>3399000 RUB</sale_price>
     <min_price>3399000 RUB</min_price>
@@ -2883,7 +3366,7 @@
     <model>F7, II</model>
     <year>2026</year>
     <title>Haval F7, II Техно + (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309466/0/full.webp?v=327e98b0df76</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309466/0/full.webp?v=9002f066b686</image_link>
     <price>3799000 RUB</price>
     <sale_price>3549000 RUB</sale_price>
     <min_price>3549000 RUB</min_price>
@@ -2896,29 +3379,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFF06AXTA309466</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGFF06AXTA309659</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-200-hp-4wd-techno--plus-2026-smoky-pearls-2026/</link>
-    <brand>Haval</brand>
-    <model>F7, II</model>
-    <year>2026</year>
-    <title>Haval F7, II Техно + (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA309659/0/full.webp?v=1e50c2744334</image_link>
-    <price>3799000 RUB</price>
-    <sale_price>3549000 RUB</sale_price>
-    <min_price>3549000 RUB</min_price>
-    <max_price>3799000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF06AXTA309659</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -2946,36 +3406,13 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGFF06AXTA310407</id>
-    <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-200-hp-4wd-techno--plus-2026-smoky-pearls-2026/</link>
-    <brand>Haval</brand>
-    <model>F7, II</model>
-    <year>2026</year>
-    <title>Haval F7, II Техно + (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA310407/0/full.webp?v=6e16d68f77f0</image_link>
-    <price>3799000 RUB</price>
-    <sale_price>3549000 RUB</sale_price>
-    <min_price>3549000 RUB</min_price>
-    <max_price>3799000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF06AXTA310407</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>XZGFF06AXTA314215</id>
     <link>https://avtosalon2000.alexsab.ru/cars/haval-f7-ii-20-amt-200-hp-4wd-premium-2026-noble-agate-2026/</link>
     <brand>Haval</brand>
     <model>F7, II</model>
     <year>2026</year>
     <title>Haval F7, II Премиум (2026) 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/0/full.webp?v=9ee00a9a239f</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF06AXTA314215/0/full.webp?v=7e5578f41fb7</image_link>
     <price>3599000 RUB</price>
     <sale_price>3349000 RUB</sale_price>
     <min_price>3349000 RUB</min_price>
@@ -2998,7 +3435,7 @@
     <model>F7x, II</model>
     <year>2026</year>
     <title>Haval F7x, II Техно + 2026</title>
-    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A2TA609145/0/full.webp?v=16bc57a01590</image_link>
+    <image_link>https://img.upspace.ru/cars/avtosalon2000.alexsab.ru/new/XZGFF07A2TA609145/0/full.webp?v=f64728db8958</image_link>
     <price>3999000 RUB</price>
     <sale_price>3749000 RUB</sale_price>
     <min_price>3749000 RUB</min_price>
