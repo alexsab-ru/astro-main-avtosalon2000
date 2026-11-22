@@ -2,6 +2,7 @@ export type TSalonMap = {
 	zoom?: number;
 	balloon?: string;
 	coordinates?: [number, number];
+	marker_coordinates?: [number, number];
 	ya_link?: string;
 };
 
@@ -28,6 +29,7 @@ export interface ISalon {
 	name?: string;
 	brands?: string;
 	type?: string;
+	legal_city?: string;
 	address?: string;
 	phone?: string;
 	email?: string;
